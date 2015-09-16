@@ -1,0 +1,79 @@
+.ngayDaChon{
+	color: #fff;
+	font-weight: 700;
+	border-color: #888;
+	background: #d5562b;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	position: relative;
+	float: left;
+	padding: 10px;
+	width: 100px;
+	margin: 0 auto;
+	font-size: 14px;
+	display: block;
+	text-align: center;
+	cursor: pointer;
+	font-family: 'Arial';
+	border-style: solid;
+	border-width: 1px;
+	border-color: #aaa;
+}
+.ngayChuaChon{
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	position: relative;
+	float: left;
+	padding: 10px;
+	width: 100px;
+	margin: 0 auto;
+	font-size: 14px;
+	text-align: center;
+	cursor: pointer;
+	display: block;
+	color: black;
+	font-family: 'Arial';
+	border-style: solid;
+	border-width: 1px;
+	border-color: #aaa;
+}
+.thuDaChon{
+	color: black;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	position: relative;
+	width: 100px;
+	display: block;
+	float: left;
+	padding: 10px;
+	margin: 0 auto;
+	font-size: 14px;
+	text-align: center;
+	cursor: pointer;
+	font-family: 'Arial';
+	border-style: solid;
+	border-width: 1px;
+	border-color: #aaa;
+	background: #24d824;
+}
+.thuChuaChon{
+	color: green;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	position: relative;
+	width: 100px;
+	display: block;
+	float: left;
+	padding: 10px;
+	margin: 0 auto;
+	font-size: 14px;
+	text-align: center;
+	font-family: 'Arial';
+	cursor: pointer;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #aaa;
+}
